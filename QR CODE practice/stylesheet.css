@@ -1,0 +1,79 @@
+*{
+
+}
+
+html{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.app{
+    background-color: white;
+    height: 695px;
+    width: 387px;
+    position: sticky;
+    align-items: center;
+    border-radius: 31px;
+    margin: 0%;
+    top: 0%;
+    
+
+}
+
+.bluebox{
+    background-color: hsl(217, 78%, 57%);
+    position: relative;
+    width: 353px;
+    height: 378px;
+    border-radius: 19px;
+    margin: 4%;
+    top: 0%;
+    
+    
+}
+
+.body{
+    display: flex;
+    justify-content: center;
+
+}
+
+.qrcode{
+    position: relative;
+    width: 353px;
+    height: 378px;
+    border-radius: 19px;
+    margin: 4%;
+    top: 0%;
+}
+
+.header{
+    position: relative;
+    color: rgba(32, 32, 82, 0.884);
+    width: 307px;
+    height: 377px;
+    border-radius: 19px;
+    margin: 11%;
+    top: -4%;
+    font-size: 24px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-weight: 400, 700;
+}
+
+
+.paragraph1{
+    color: rgb(127, 138, 160);
+    position: relative;
+    width: 307px;
+    height: 377px;
+    border-radius: 19px;
+    margin: 9%;
+    top: -57%;
+    font-size: 17px;
+    font-family:'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    
+   
+}
+
